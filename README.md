@@ -10,6 +10,10 @@
 
 Nuestro análisis utiliza Ciencia de Datos para demostrar cómo la mala calidad del agua en México (ODS 6) detona crisis sanitarias (ODS 3) que golpean desproporcionadamente a las comunidades más vulnerables, hundiendo a las familias en gastos médicos imprevistos que perpetúan el ciclo de la pobreza (ODS 1).
 
+* **El Origen (El Hecho Alarmante - ODS 6):** La narrativa comienza con un hecho crítico: de más de 4,200 sitios de aguas superficiales monitoreados por la CONAGUA, el 58.8% presentan algún grado de contaminación. Casi la mitad de los cuerpos de agua en el país tienen mala calidad, y ríos como el Lerma-Santiago, Atoyac y Tula se cuentan entre los más afectados.
+* **El Nudo (La Conexión Mortal - ODS 3):** Revelamos el vínculo directo entre esta contaminación y la salud pública. Demostramos cómo consumir o estar en contacto con estas aguas contaminadas provoca un aumento de enfermedades gastrointestinales, que golpean con mayor fuerza a los niños y a las personas con sistemas inmunológicos más débiles.
+* **El Desenlace (La Trampa de la Pobreza - ODS 1):** El ciclo se cierra al mostrar que estas enfermedades generan gastos médicos inesperados y pérdida de productividad, empujando a las familias ya vulnerables a una situación económica aún más precaria.
+
 **No solo visualizamos datos; visualizamos una realidad que necesita cambiar.**
 
 ---
