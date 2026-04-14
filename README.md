@@ -12,11 +12,6 @@ Nuestro análisis utiliza Ciencia de Datos para demostrar cómo la mala calidad 
 
 **No solo visualizamos datos; visualizamos una realidad que necesita cambiar.**
 
-<div align="center">
-  <img src="img/grafica_morbilidad.png" alt="Distribución de morbilidad por contaminación hídrica" width="800">
-  <p><em>Figura 1: Relación entre cuerpos de agua contaminados y casos acumulados de enfermedades gastrointestinales.</em></p>
-</div>
-
 ---
 
 ## 🎯 Objetivos de Desarrollo Sostenible (ODS)
