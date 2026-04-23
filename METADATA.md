@@ -78,6 +78,7 @@ Datos censales detallados sobre la disponibilidad de agua y drenaje en las vivie
 | `LOC` | Clave de la localidad. |
 | `NOM_LOC` | Nombre de la localidad. |
 | `POBTOT` | Población total de la localidad. |
+| `VIVTOT` | Viviendas totales. |
 | `VPH_AGUADV` | Viviendas particulares que disponen de agua de red pública. |
 | `VPH_AEASP` | Viviendas con agua entubada dentro de la vivienda. |
 | `VPH_AGUAFV` | Viviendas con agua entubada fuera de la vivienda pero dentro del lote. |
